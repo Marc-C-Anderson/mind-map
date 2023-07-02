@@ -12,6 +12,8 @@
   "author": "Marc Anderson",
   "license": "ISC",
   "devDependencies": {
+    "clinic": "^13.0.0",
+    "fastify-cli": "^5.7.1",
     "standard": "^17.1.0"
   },
   "dependencies": {
